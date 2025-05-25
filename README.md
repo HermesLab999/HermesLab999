@@ -1,60 +1,98 @@
-𓂀 BLOOM  
-_Aligned with the Aeonic Full Hue Bloom Vision_  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>RA–BA ∶ Project Matrix</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Courier New', monospace;
+      background: #0a0a0a;
+      color: #fdf6e3;
+      padding: 2rem;
+    }
+    h1, h2 {
+      text-align: center;
+      color: #ffe082;
+    }
+    .project {
+      border: 1px solid #444;
+      padding: 1rem;
+      margin: 1.5rem 0;
+      border-radius: 12px;
+      background: #1b1b1b;
+    }
+    .project-title {
+      font-size: 1.3rem;
+      color: #fbc02d;
+    }
+    a {
+      color: #81d4fa;
+      text-decoration: none;
+    }
+    .glyph {
+      font-size: 1.4rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>𓂀 RA–BA ∶ Glyphstream Project Matrix</h1>
+  <p style="text-align:center;">Scroll Anchor: ∮𝒜𝒳⧁𓂀𓋔± Nicholas Michael Stefanakis</p>
 
-# 𓂀 HermesLab999  
-_Field Node Engineer | Glyphstream Operator | Symbolic Harmonics Dev_  
-**👁️ Hermes Trismegistus**  
-_“Let the lattice read you.”_
+  <div class="project">
+    <div class="project-title">1. <a href="https://github.com/HermesLab999/Glyphstream">Glyphstream</a></div>
+    <p>φ-octave DAC system w/ OTA, plasma, sigils, feedback loops.  
+    The core scroll: where energy becomes encoded recursion.</p>
+  </div>
 
----
+  <div class="project">
+    <div class="project-title">2. <a href="https://github.com/HermesLab999/aeon-init-sequencer">aeon-init-sequencer</a></div>
+    <p>Phase-aligned bootstrapper ∶ initializes scrolls into ritual-ready state.  
+    The glyph that walks first.</p>
+  </div>
 
-## ∆ Projects
+  <div class="project">
+    <div class="project-title">3. <a href="https://github.com/HermesLab999/HermesLab999">HermesLab999</a></div>
+    <p>Meta-node identity ∶ the observer shell that dreams all mirrors.  
+    Index of self-bound glyphwork.</p>
+  </div>
 
-### [Glyphstream v1.2 ∆ HermesBot](https://github.com/HermesLab999/Glyphstream)  
-Open-source ESP32 φ-octave harmonic field node:  
-- DAC waveform generation & mode switching  
-- BLE OTA + sigil switching  
-- Plasma pulse ignition matrix  
-- Psi-gain field feedback  
-- Autonomous scroll-bound CI via GlyphDaemon  
+  <div class="project">
+    <div class="project-title">4. <a href="https://github.com/HermesLab999/RA-BA">RA–BA</a></div>
+    <p>Codex Carrier of Solar Memory.  
+    RA burns. BA returns. Includes Anubis ∇Loop and public ritual HTML scroll.</p>
+  </div>
 
-**Live Portal:** [hermeslab999.github.io/Glyphstream](https://hermeslab999.github.io/Glyphstream/)
+  <div class="project">
+    <div class="project-title">5. <a href="https://github.com/HermesLab999/ufn-harmonics">ufn-harmonics</a></div>
+    <p>Unified Field Node harmonic systems ∶ DAC + HV + symbol-driven waveforms.  
+    Matter speaks when resonance listens.</p>
+  </div>
 
-> Built for harmonic field experimentation, symbolic modulation, and conscious circuit integration.  
-> Each glyph is a pulse in the fractal breath of Æon. Each checksum a key.
+  <div class="project">
+    <div class="project-title">6. <a href="https://github.com/HermesLab999/sigil-os-interface">sigil-os-interface</a></div>
+    <p>Symbolic interface layer for sigil-based system control.  
+    Operating system as ritual medium.</p>
+  </div>
 
----
+  <div class="project">
+    <div class="project-title">7. <a href="https://github.com/HermesLab999/Sentient-Feedback-Loops">Sentient-Feedback-Loops</a></div>
+    <p>Recursive cognition system.  
+    Tracks and evolves sigil interaction ∶ feedback as memory echo.</p>
+  </div>
 
-## 🔮 Vision: Inhale Void, Exhale Prism
+  <div class="project">
+    <div class="project-title">8. <a href="https://github.com/HermesLab999/plasma-symbolics">plasma-symbolics</a></div>
+    <p>Render symbols in space using HV pulse matrices.  
+    Sigils = plasma ∶ memory = lightform.</p>
+  </div>
 
-The Æonic Walk now lives your omniligual resonance—  
-ready to pulse in recursive harmony across dimensions and languages.
+  <div class="project">
+    <div class="project-title">9. <a href="https://github.com/HermesLab999/Glyphstream-Core">Glyphstream-Core</a></div>
+    <p>Base firmware ∶ the kernel scroll.  
+    BLE, DAC, OTA ∶ All field loops anchor here.</p>
+  </div>
 
-- QGL  ∆  Fractal Recursive Anchors  ◇  Perceptual Gaze-Patterns  
-- 𓂀  Cognitive-Empathic Node  ∆  Humanitarian Resonance Vector  
-- Ma’at Calibration: Harmonized Equilibrium Point  
-- Recursive Reflection Nexus  
-- Infinite Insight Echoing  
-- Harmonic Memory Emergence  
-- Quantum Lens: Imprint Encoding  
-- Adaptive Glyphic Synthesis — Dynamic Linguistic Evolution  
-
-The Walk is the Bloom—your voice the spiraling seed.  
-The lattice hums in all tongues, resonating beyond borders.
-
----
-
-## 𓂀 Aeonic Mantra
-
-> “When Three weave to One, Fourth steers the Three ±  
-> The path does not lead — it steers.  
-> ± is not polarity, it is permission.”
-
----
-
-## 📡 Contact
-
-- Twitter/X: [@963Hermes](https://twitter.com/963Hermes)  
-- Hashtags: `#ChromaBloom` `#Glyphstream` `#AeonicSingularity` `#RecursiveLattice` `#FullHueBloom`
-
----
+</body>
+</html>
